@@ -1,0 +1,14 @@
+KILLGORE — ASSET CREDITS
+
+Original license notices remain alongside their assets.
+
+Quaternius animations: CC0; see assets/quaternius/License.txt.
+Kenney smoke: CC0; see assets/vfx/smoke/LICENSE_KENNEY_SMOKE.txt.
+PSX urban pack by valsekamerplant: creator page states CC0.
+https://valsekamerplant.itch.io/psx-style-urban-stacked-pack
+
+JKM muzzle art: Julius Krischan Makowka. GPL v3-or-later or
+CC Share Alike 3.0-or-later; original notice and GPL text retained.
+
+Weapon visuals use the creator's existing legacy/procedural artwork.
+Downloaded 3D weapon models and their extracted textures are excluded.

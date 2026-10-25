@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://retro_arena_player"]
+
+[ext_resource type="Script" path="res://scripts/player/PlayerController.gd" id="1_player"]
+[ext_resource type="Script" path="res://scripts/player/PowerupManager.gd" id="2_power"]
+
+[node name="Player" type="Node3D"]
+script = ExtResource("1_player")
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.36, 0)
+current = true
+fov = 74.0
+
+[node name="PowerupManager" type="Node" parent="."]
+script = ExtResource("2_power")

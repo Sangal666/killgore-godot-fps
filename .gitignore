@@ -1,0 +1,39 @@
+# Local secrets and machine files
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Runtime and build output
+.godot/
+builds/
+*.pck
+*.exe
+*.zip
+*.log
+*.tmp
+*.bak
+.export_credentials
+.summer/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+scan_data/
+current_project.json
+user_presets.json
+code/output/
+code/tmp/
+*.rpp-bak
+*.RPP-bak
+*.reapeaks
+docs/*-output.txt
+docs/*.log
+docs/check-results.json
+
+# Editor swap files
+*.swp
+*.swo
+*~

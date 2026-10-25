@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://trench_map_movement_preview"]
+
+[ext_resource type="Script" path="res://scripts/tools/TrenchMapMovementPreview.gd" id="1_preview"]
+
+[node name="TrenchMapMovementPreview" type="Node3D"]
+script = ExtResource("1_preview")

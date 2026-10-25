@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://retro_grenade"]
+
+[ext_resource type="Script" path="res://scripts/world/Grenade.gd" id="1_grenade"]
+
+[node name="Grenade" type="Node3D"]
+script = ExtResource("1_grenade")
