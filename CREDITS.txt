@@ -12,3 +12,43 @@ CC Share Alike 3.0-or-later; original notice and GPL text retained.
 
 Weapon visuals use the creator's existing legacy/procedural artwork.
 Downloaded 3D weapon models and their extracted textures are excluded.
+
+Credits for weapon models visible in earlier gameplay media
+The downloaded models below are not included in this source repository.
+The existing gameplay media was recorded before the weapon cleanup.
+
+Scifi Weapon NO.2
+No.cccccc (https://sketchfab.com/NO.cccccc)
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+https://sketchfab.com/3d-models/scifi-weapon-no2-c44822dbdbc84a0197b37107940bd4cf
+
+Bazooka/ Rocket Launcher Low Poly
+Shaz (https://sketchfab.com/shaz13)
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+https://sketchfab.com/3d-models/bazooka-rocket-launcher-low-poly-bf7d92ee041b4506973841f46b14ce62
+
+PS1 Style Flamethrower
+Falxxx (https://sketchfab.com/Falxxx)
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+https://sketchfab.com/3d-models/ps1-style-flamethrower-60a1d835325543a1b9eaa7804dcbe65d
+
+Exitus gun
+kornilov-lenya (https://sketchfab.com/kornilov-lenya)
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+https://sketchfab.com/3d-models/exitus-gun-205635ec16ce497c99bc2465530a0817
+
+Retro ray-gun
+Daniel Santalla (https://sketchfab.com/danielsantalla)
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+https://sketchfab.com/3d-models/retro-ray-gun-50e66712e7e44944859b3ccfb2466193
+
+FMP WIP Crossbow- 2
+DevinBrown (https://sketchfab.com/Mockdeath)
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+https://sketchfab.com/3d-models/fmp-wip-crossbow-2-c982297f44d0496a9752880e757b8b72
+
+Ps1 Shotgun
+LL (https://sketchfab.com/borymaster3)
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+https://sketchfab.com/3d-models/ps1-shotgun-1d31b496f69b4ac285fc9aa47e0c7aba
+
