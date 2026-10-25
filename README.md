@@ -22,9 +22,7 @@ A first-person game prototype built with **Godot 4 and GDScript**, combining fas
 
 **Controls:** WASD to move, mouse to look, left/right click to attack, Space to jump, Shift to slide or sprint, Q to grapple, E to interact, R to reload, G for grenades, Esc to pause. In the horror chapter, F toggles the flashlight.
 
-## Development
-
-I use Codex and other AI tools extensively for implementation and debugging. My role includes creative direction, gameplay and audiovisual decisions, testing, and guiding iterations, alongside some manual code fixes.
+## Code structure
 
 The main code is in `scripts/`: player movement, weapons, world logic, creature animation and audio are handled by separate controllers. `assets/` contains game resources; `tools/` contains optional Blender authoring scripts. Blender is not needed to play.
 
